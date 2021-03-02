@@ -14,6 +14,9 @@ import time
 SERVER_HOST = "192.168.1.21"
 SERVER_PORT = 502
 
+print(utils.set_bit(400, 15))
+
+
 c = ModbusClient()
 
 # uncomment this line to see debug message
