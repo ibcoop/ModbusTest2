@@ -40,7 +40,7 @@ while True:
         c.open()
         time.sleep(1)
     # sleep 2s before next polling
-    time.sleep(2)
+    time.sleep(3)
   # sleep 2s before next polling
  # sleep 2s before next polling
- # sleep 2s before next polling # sleep 2s before next polling # sleep 2s before next polling
+# Bob Changed sleep time to 3
